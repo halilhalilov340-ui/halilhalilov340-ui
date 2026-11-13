@@ -40,9 +40,9 @@ AI plant assistant (text, voice or photo) grounded on a curated knowledge base o
 A Python service for transport companies in Belgium: reads order emails and their attachments, extracts the data and enters it into the transport management system. Duplicate checks, retries and a log of every step. Runs every day.
 `Python` `OCR` `LLM extraction` `REST APIs`
 
-### ASYA Fleet
-Fleet tracking and tachograph platform for hauliers.
-`JavaScript`
+### ASYA Fleet · [fleet.asya-aa.com](https://fleet.asya-aa.com) (pre-launch)
+Multi-company fleet tracking and tachograph platform for hauliers. Own device servers for Teltonika and Xirgo trackers (TCP and MQTT), my own tachograph file (.ddd) decoder with EU signature checks, EU driving-time rules (561/2006), trailer theft alarms, jobs with proof of delivery, and Excel/PDF/CO₂ reports. Open API, signed webhooks, 2FA, GDPR tools, 6 languages and about 1,400 automated tests.
+`Node.js` `Firestore` `MQTT` `PWA` `Docker` `Ubuntu`
 
 ### AI social media promo pipeline (built and tested)
 Turns a product into platform-specific posts (Claude) and a short vertical video (Google Veo + ffmpeg). Human approval before anything is posted; dry run by default.
