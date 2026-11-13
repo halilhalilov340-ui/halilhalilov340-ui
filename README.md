@@ -36,8 +36,8 @@ AI plant assistant (text, voice or photo) grounded on a curated knowledge base o
 
 ## ⚙️ Automation and platforms
 
-### Asya Sync
-A Windows app for transport companies: reads order emails and their attachments (PDF, Excel, Word, scans), extracts the orders with AI (Claude with fallback models, 19 customer formats) and fills them into the transport management system. Retries, duplicate detection, a learning mode, auto-update and 14 languages.
+### Asya Sync (in production)
+A Windows app in daily use at a transport company: reads order emails and their attachments (PDF, Excel, Word, scans), extracts the orders with AI (Claude with fallback models, 19 customer formats) and fills them into the transport management system. Retries, duplicate detection, a learning mode, auto-update and 14 languages.
 `Python` `Claude API` `Gmail / IMAP` `RPA` `Firebase` `GitHub Actions`
 
 ### ASYA Fleet · [fleet.asya-aa.com](https://fleet.asya-aa.com) (in production)
