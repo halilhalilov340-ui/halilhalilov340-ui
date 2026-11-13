@@ -34,6 +34,10 @@ Speak for 30 seconds and AI turns it into tasks, shopping lists, appointments an
 AI plant assistant (text, voice or photo) grounded on a curated knowledge base of 150 plants in 10 languages, with a safety layer on both the question and the answer.
 `Flutter` `Node.js Cloud Functions` `Gemini` `RevenueCat` `GitHub Actions + Cloud Build`
 
+### MagicEstate
+AI marketing app for real-estate agents: describe a property by voice once, get listings, social posts, ad images, a 30-second voiced ad video and PDF reports in 6 languages. A "Fact Lock" makes sure the AI only uses verified facts (price, rooms, m²), and every text passes accuracy and compliance checks. Offered directly to agencies.
+`Flutter` `Node.js Cloud Functions` `Gemini` `Claude` `Text-to-Speech` `FFmpeg`
+
 ## ⚙️ Automation and platforms
 
 ### Asya Sync (in production)
