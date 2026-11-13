@@ -40,8 +40,8 @@ AI plant assistant (text, voice or photo) grounded on a curated knowledge base o
 A Windows app for transport companies: reads order emails and their attachments (PDF, Excel, Word, scans), extracts the orders with AI (Claude with fallback models, 19 customer formats) and fills them into the transport management system. Retries, duplicate detection, a learning mode, auto-update and 14 languages.
 `Python` `Claude API` `Gmail / IMAP` `RPA` `Firebase` `GitHub Actions`
 
-### ASYA Fleet · [fleet.asya-aa.com](https://fleet.asya-aa.com) (pre-launch)
-Multi-company fleet tracking and tachograph platform for hauliers. Own device servers for Teltonika and Xirgo trackers (TCP and MQTT), my own tachograph file (.ddd) decoder with EU signature checks, EU driving-time rules (561/2006), trailer theft alarms, jobs with proof of delivery, and Excel/PDF/CO₂ reports. Open API, signed webhooks, 2FA, GDPR tools, 6 languages and about 1,400 automated tests.
+### ASYA Fleet · [fleet.asya-aa.com](https://fleet.asya-aa.com) (in production)
+Multi-company fleet tracking and tachograph platform, in daily use at a transport company with real trackers. Own device servers for Teltonika and Xirgo trackers (TCP and MQTT), my own tachograph file (.ddd) decoder with EU signature checks, EU driving-time rules (561/2006), trailer theft alarms, jobs with proof of delivery, and Excel/PDF/CO₂ reports. Open API, signed webhooks, 2FA, GDPR tools, 6 languages and about 1,400 automated tests.
 `Node.js` `Firestore` `MQTT` `PWA` `Docker` `Ubuntu`
 
 ### AI social media promo pipeline (built and tested)
